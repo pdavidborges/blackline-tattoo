@@ -1,0 +1,26 @@
+:root{    
+    /* Tipografia */
+    --font-primary: "Inter", sans-serif;
+    --font-title: "Teko", sans-serif;
+
+    /* Brand */
+    --color-brand-primary: #ffcc00;
+    --color-brand-light: #ffe990;
+    --color-brand-dark: #caa100;
+
+    /* Dark */
+    --color-dark: #14141b;
+    --color-black: #000000; 
+
+    /* Light */
+    --color-light: #dddddd;
+    --color-white: #ffffff;
+}
+
+body{
+    font-family: var(--font-primary);
+}
+
+h1{
+    font-family: var(--font-title);    
+}
